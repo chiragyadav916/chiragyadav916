@@ -6,17 +6,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiragyadav916&label=Profile%20views&color=a910c4&style=plastic" alt="chiragyadav916" /> </p>
 
-- 🏨 I’m currently working on **Airbnb Website Clone**
+- 🏨 I’m currently working on **Airbnb Website Clone!**
 
 - 🌱 I’m currently learning, **conquering challenges, and embracing growth every step of the way!**
 
-- 🍀 Linktree [https://linktr.ee/chiragyadav916](https://linktr.ee/chiragyadav916)
+- 🍀 [Linktree](https://linktr.ee/chiragyadav916)
 
 - 💬 Ask me about **development & trading!**
 
-- 📫 How to reach me **chiragyadav916@gmail.com**
+- 📫 How to reach me: **chiragyadav916@gmail.com**  
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XLq12wtBC6nquNRwtGd2zEH6qfhzU1_T/view?usp=sharing](https://drive.google.com/file/d/1XLq12wtBC6nquNRwtGd2zEH6qfhzU1_T/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://shorturl.at/korAO)
 
 - ⚡ Fun fact: **When I'm not deep into coding or navigating the stock market, I dominate the classic game of Chess. It's my secret talent—showing that strategic skills aren't just for computers and stocks, but for good old board games too! 🚀💻 #TechieAndBoardGamer**
 
