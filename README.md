@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiragyadav916&label=Profile%20views&color=a910c4&style=plastic" alt="chiragyadav916" /> </p>
 
-- 🏨 I’m currently working on **Airbnb Website Clone!**
+- 🏨 My recent project is **Airbnb Website Clone!**
 
 - 🌱 I’m currently learning, **conquering challenges, and embracing growth every step of the way!**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me: **chiragyadav916@gmail.com**  
 
-- 📄 Know about my experiences: [Resume](https://shorturl.at/korAO)
+- 📄 Know about my experiences: [Resume]([https://shorturl.at/korAO](https://drive.google.com/drive/folders/19mhQLwRNRiZJgRHueHA4Wq02Lxi-Qzhe))
 
 - ⚡ Fun fact: **When I'm not deep into coding or navigating the stock market, I dominate the classic game of Chess. It's my secret talent—showing that strategic skills aren't just for computers and stocks, but for good old board games too! 🚀💻 #TechieAndBoardGamer**
 
