@@ -16,7 +16,7 @@
 
 - 📫 How to reach me: **chiragyadav916@gmail.com**  
 
-- 📄 Know about my experiences: [Resume]([https://shorturl.at/korAO](https://drive.google.com/drive/folders/19mhQLwRNRiZJgRHueHA4Wq02Lxi-Qzhe))
+- 📄 Know about my experiences: [Resume](https://drive.google.com/drive/folders/19mhQLwRNRiZJgRHueHA4Wq02Lxi-Qzhe?usp=drive_link)
 
 - ⚡ Fun fact: **When I'm not deep into coding or navigating the stock market, I dominate the classic game of Chess. It's my secret talent—showing that strategic skills aren't just for computers and stocks, but for good old board games too! 🚀💻 #TechieAndBoardGamer**
 
