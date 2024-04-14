@@ -56,16 +56,25 @@
   
 </p>
 
-<p>
+<p >
 
- <img align="center" src="https://wakatime.com/share/@chiragyadav916/beac11bb-9a3c-45c0-8964-9ea5782c651e.svg" alt="chiragyadav916" width="full" height="200" />
-&nbsp;
+ <!--<img align="center" src="https://wakatime.com/share/@chiragyadav916/beac11bb-9a3c-45c0-8964-9ea5782c651e.svg" alt="chiragyadav916" width="full" height="200" />
+&nbsp;-->
  
-  
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=chiragyadav916&layout=compact&langs_count=6" alt="Wakatime Weekly Coding Actitvity Languages"/>
 </p>
 
-### Show some ❤️ by starring some of the repositories!
+
+
+
+
+
+
+### Show some ❤️ by starring some of the repositories! <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
 
 <h2 align="center">
     <code><em>Thank You!!!</em></code>
 </h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
