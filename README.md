@@ -63,14 +63,13 @@
  <!--<img align="center" src="https://wakatime.com/share/@chiragyadav916/beac11bb-9a3c-45c0-8964-9ea5782c651e.svg" alt="chiragyadav916" width="full" height="200" />
 &nbsp;-->
  
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=chiragyadav916&layout=compact&langs_count=6" alt="Wakatime Weekly Coding Activity Languages"/>
+  <!--<img src="https://github-readme-stats.vercel.app/api/wakatime?username=chiragyadav916&layout=compact&langs_count=6" alt="Wakatime Weekly Coding Activity Languages"/>-->
 </p>
 
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-109-blue)
 
 **🐱 My GitHub Data** 
 
@@ -129,7 +128,7 @@ Java Programs (intellij) 13 mins             █░░░░░░░░░░�
 Windows                  5 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in JavaScript** 
+👨🏻‍💻 **I Mostly Code in JavaScript** 
 
 ```text
 JavaScript               5 repos             ██████████░░░░░░░░░░░░░░░   38.46 % 
@@ -146,7 +145,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/chiragyadav916/chiragyadav916/main/assets/bar_graph.png)
 
 
- Last Updated on 15/04/2024 08:29:08 UTC
+ _Last Updated on 15/04/2024 08:29:08 UTC_
 <!--END_SECTION:waka-->
 
 
@@ -155,7 +154,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /><code><em>Thank You!!!</em></code><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+<h2 align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><code><em>Thank You!!!</em></code><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 </h2>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
