@@ -5,7 +5,8 @@
 <img align="right" alt="Coding" width="500" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiragyadav916&label=Profile%20views&color=a910c4&style=plastic" alt="chiragyadav916" />&nbsp;
-<a href="https://wakatime.com/@018edc89-1d35-4e90-b3f1-78262f20580f"><img src="https://wakatime.com/badge/user/018edc89-1d35-4e90-b3f1-78262f20580f.svg" alt="Total time coded since Apr 14 2024" /></a></p>
+<a href="https://wakatime.com/@018edc89-1d35-4e90-b3f1-78262f20580f"><img src="https://wakatime.com/badge/user/018edc89-1d35-4e90-b3f1-78262f20580f.svg" alt="Total time coded since Apr 14 2024" /></a>&nbsp;<img src="https://img.shields.io/github/last-commit/chiragyadav916/chiragyadav916">
+</p>
 
 - 🏨 My recent project is an **Airbnb Website Clone!**
 
@@ -65,7 +66,68 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=chiragyadav916&layout=compact&langs_count=6" alt="Wakatime Weekly Coding Activity Languages"/>
 </p>
 
+
 <!--START_SECTION:waka-->
+🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
+🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
+🌃 Evening    112 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
+🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
+
+
+Monday       50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.19% 
+Tuesday      85 commits     █████░░░░░░░░░░░░░░░░░░░░   22.43% 
+Wednesday    56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.78% 
+Thursday     44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.61% 
+Friday       28 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.39% 
+Saturday     30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.92% 
+Sunday       86 commits     █████░░░░░░░░░░░░░░░░░░░░   22.69%
+
+
+💬 Languages:
+JavaScript               5 hrs 26 mins       ███████████████░░░░░░░░░░   61.97%
+PHP                      1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.07%
+Markdown                 1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.3%
+Python                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.32%
+XML                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.62%
+
+💻 Operating Systems:
+Windows                  8 hrs 46 mins       █████████████████████████   100.0%
+
+🐱‍💻 Projects:
+ctx_connector            4 hrs 3 mins        ███████████░░░░░░░░░░░░░░   46.33%
+NetSuite-Connector       1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.29%
+mango-web-master         1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.77%
+cable                    54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.41%
+denAPI                   40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.66%
+
+⌚︎ Timezone: Asia/Calcutta
+
+🔥 Editors:
+WebStorm                 6 hrs 47 mins       ███████████████████░░░░░░   77.43%
+PhpStorm                 1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.07%
+PyCharm                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.49%
+
+Vue          8 repos        ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+Java         6 repos        ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
+JavaScript   6 repos        ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
+PHP          3 repos        ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
+Python       2 repos        █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
+Dart         2 repos        █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
+CSS          2 repos        █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
+
+
+**🐱 My GitHub Data** 
+
+> 🏆 433 Contributions in year 2020
+ > 
+> 📦 Used 292.3 kB in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 25 Public Repository 
+ > 
+> 🔑 15 Owned Private Repository 
+
 <!--END_SECTION:waka-->
 
 
