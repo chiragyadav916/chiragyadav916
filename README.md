@@ -52,11 +52,16 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=chiragyadav916&theme=dark" alt="chiragyadav916" /></p>
 
-<p>
+<!--<p>
     <img align="center" src="https://wakatime.com/share/@chiragyadav916/d08db4d0-83fe-4bc9-a29e-546d34d24458.svg" alt="chiragyadav916" width="full" height="340" />
 
   
+</p>-->
+
 </p>
+
+
+
 
 <p >
 
@@ -64,12 +69,19 @@
 &nbsp;-->
  
   <!--<img src="https://github-readme-stats.vercel.app/api/wakatime?username=chiragyadav916&layout=compact&langs_count=6" alt="Wakatime Weekly Coding Activity Languages"/>-->
-</p>
+  <!--<b>&#128200; Competitive Programming</b>-->
+<p float="center">
+<!--<img height="273em" src="https://leetcard.jacoblin.cool/chiragyadav916?theme=dark&font=Karma&ext=contest" />-->
 
+  <a href="https://codeforces.com/profile/chiragyadav916">
+    <img src="https://raw.githubusercontent.com/chiragyadav916/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
+  </a>
+  
+</p>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2041%20mins-blue)
-
+<img src="https://raw.githubusercontent.com/chiragyadav916/cf-stats/main/output/max_rating.svg" />
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-261-blue)
 
 **🐱 My GitHub Data** 
@@ -151,7 +163,7 @@ C                        1 repo              ██░░░░░░░░░�
  Last Updated on 19/04/2024 18:33:49 UTC
 <!--END_SECTION:waka-->
 
-
+  
 
 ![](https://readme-typing-svg.demolab.com/?duration=7000&lines=Show+❤️+by+starring+repositories!)
 
