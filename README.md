@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="500" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiragyadav916&label=Profile%20views&color=a910c4&style=plastic" alt="chiragyadav916" />&nbsp;
-<a href="https://wakatime.com/@018edc89-1d35-4e90-b3f1-78262f20580f"><img src="https://wakatime.com/badge/user/018edc89-1d35-4e90-b3f1-78262f20580f.svg" alt="Total time coded since Apr 14 2024" /></a>&nbsp;<img src="https://img.shields.io/github/last-commit/chiragyadav916/chiragyadav916">&nbsp;<img src="https://github.com/chiragyadav916/chiragyadav916/actions/workflows/waka-readme.yml/badge.svg">
+<a href="https://wakatime.com/@018edc89-1d35-4e90-b3f1-78262f20580f"><img src="https://wakatime.com/badge/user/018edc89-1d35-4e90-b3f1-78262f20580f.svg" alt="Total time coded since Apr 14 2024" /></a>&nbsp;<img src="https://img.shields.io/github/last-commit/chiragyadav916/chiragyadav916">&nbsp;&nbsp;<img src="https://github.com/chiragyadav916/chiragyadav916/actions/workflows/waka-readme.yml/badge.svg">
 </p>
 
 - 🏨 My recent project is an **Airbnb Website Clone!**
@@ -70,7 +70,7 @@
  
   <!--<img src="https://github-readme-stats.vercel.app/api/wakatime?username=chiragyadav916&layout=compact&langs_count=6" alt="Wakatime Weekly Coding Activity Languages"/>-->
   <!--<b>&#128200; Competitive Programming</b>-->
-<p float="center">
+<p float="left">
 <!--<img height="273em" src="https://leetcard.jacoblin.cool/chiragyadav916?theme=dark&font=Karma&ext=contest" />-->
 
   <a href="https://codeforces.com/profile/chiragyadav916">
