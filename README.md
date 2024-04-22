@@ -8,7 +8,7 @@
 <a href="https://wakatime.com/@018edc89-1d35-4e90-b3f1-78262f20580f"><img src="https://wakatime.com/badge/user/018edc89-1d35-4e90-b3f1-78262f20580f.svg" alt="Total time coded since Apr 14 2024" /></a>&nbsp;<img src="https://img.shields.io/github/last-commit/chiragyadav916/chiragyadav916">&nbsp;&nbsp;<img src="https://github.com/chiragyadav916/chiragyadav916/actions/workflows/waka-readme.yml/badge.svg">
 </p>
 
-- 🏨 My recent project is an **Airbnb Website Clone!**
+- 🏨 My recent project is an **Twitter Website Clone!**
 
 - 🌱 I’m currently **learning, conquering challenges, and embracing growth every step of the way!**
 
