@@ -80,13 +80,15 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-78%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-78%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 448.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 395 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -121,20 +123,20 @@ Sunday                   91 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    5 hrs 59 mins       █████████████████████████   100.00 % 
+Other                    5 hrs 57 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   5 hrs 59 mins       █████████████████████████   100.00 % 
+Chrome                   5 hrs 57 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Codeforces-Solution      5 hrs 30 mins       ███████████████████████░░   91.86 % 
-LeetCode                 27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+Codeforces-Solution      5 hrs 28 mins       ███████████████████████░░   91.80 % 
+LeetCode                 27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
 tokens                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 namaste-frontend-system-d0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 two-factor               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Windows                  5 hrs 59 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -154,7 +156,7 @@ Python                   2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/chiragyadav916/chiragyadav916/main/assets/bar_graph.png)
 
 
- Last Updated on 17/05/2024 18:37:45 UTC
+ Last Updated on 18/05/2024 18:34:57 UTC
 <!--END_SECTION:waka-->
 
   
