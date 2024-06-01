@@ -88,8 +88,6 @@
 
 > 📦 448.6 kB Used in GitHub's Storage 
  > 
-> 🏆 401 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 13 Public Repositories 
@@ -123,20 +121,16 @@ Sunday                   91 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    1 hr 26 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Chrome                   1 hr 26 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Vichar_Manch             1 hr 14 mins        ██████████████████████░░░   86.88 % 
-LeetHub-2.0              8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-LeetCode                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-GeeksforGeeks            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-Codes                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 26 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -156,7 +150,7 @@ Python                   2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/chiragyadav916/chiragyadav916/main/assets/bar_graph.png)
 
 
- Last Updated on 31/05/2024 18:36:57 UTC
+ Last Updated on 01/06/2024 18:35:48 UTC
 <!--END_SECTION:waka-->
 
   
