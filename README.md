@@ -80,13 +80,13 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-84%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-85%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 448.6 kB Used in GitHub's Storage 
+> 📦 448.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -121,16 +121,21 @@ Sunday                   91 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    1 hr 11 mins        ████████████████████████░   95.85 % 
+JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Chrome                   1 hr 11 mins        ████████████████████████░   95.85 % 
+WebStorm                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Vichar_Manch             1 hr 5 mins         ██████████████████████░░░   88.50 % 
+LeetHub-2.0              8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+WebStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 14 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -150,7 +155,7 @@ Python                   2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/chiragyadav916/chiragyadav916/main/assets/bar_graph.png)
 
 
- Last Updated on 06/06/2024 18:37:54 UTC
+ Last Updated on 07/06/2024 18:39:16 UTC
 <!--END_SECTION:waka-->
 
   
