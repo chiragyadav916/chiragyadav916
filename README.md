@@ -88,6 +88,8 @@
 
 > 📦 448.5 kB Used in GitHub's Storage 
  > 
+> 🏆 403 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 13 Public Repositories 
@@ -121,18 +123,16 @@ Sunday                   91 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    1 hr 37 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Chrome                   1 hr 37 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Vichar_Manch             1 hr 34 mins        ████████████████████████░   97.15 % 
-Netflix_Clone            2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-car_selling_site         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 37 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -152,7 +152,7 @@ Python                   2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/chiragyadav916/chiragyadav916/main/assets/bar_graph.png)
 
 
- Last Updated on 24/06/2024 18:38:49 UTC
+ Last Updated on 25/06/2024 18:39:25 UTC
 <!--END_SECTION:waka-->
 
   
