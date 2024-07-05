@@ -86,9 +86,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 448.5 kB Used in GitHub's Storage 
- > 
-> 🏆 403 Contributions in the Year 2024
+> 📦 448.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -157,7 +155,7 @@ Python                   2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/chiragyadav916/chiragyadav916/main/assets/bar_graph.png)
 
 
- Last Updated on 04/07/2024 18:38:15 UTC
+ Last Updated on 05/07/2024 18:39:02 UTC
 <!--END_SECTION:waka-->
 
   
