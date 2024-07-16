@@ -80,7 +80,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-92%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-92%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -88,7 +88,7 @@
 
 > 📦 448.6 kB Used in GitHub's Storage 
  > 
-> 🏆 422 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -123,20 +123,20 @@ Sunday                   96 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    2 hrs 12 mins       ████████████████████████░   96.57 % 
-HTML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Other                    2 hrs 17 mins       ████████████████████████░   96.68 % 
+HTML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-Chrome                   2 hrs 12 mins       ████████████████████████░   96.57 % 
-WebStorm                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+Chrome                   2 hrs 17 mins       ████████████████████████░   96.68 % 
+WebStorm                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
 
 🐱‍💻 Projects: 
-Vichar_Manch             2 hrs 17 mins       █████████████████████████   99.92 % 
+Vichar_Manch             2 hrs 21 mins       █████████████████████████   99.92 % 
 WebStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 💻 Operating System: 
-Windows                  2 hrs 17 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -156,7 +156,7 @@ Python                   2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/chiragyadav916/chiragyadav916/main/assets/bar_graph.png)
 
 
- Last Updated on 15/07/2024 18:39:49 UTC
+ Last Updated on 16/07/2024 18:39:39 UTC
 <!--END_SECTION:waka-->
 
   
