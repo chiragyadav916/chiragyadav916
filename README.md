@@ -80,15 +80,13 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-97%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 448.7 kB Used in GitHub's Storage 
- > 
-> 🏆 464 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -152,7 +150,7 @@ Python                   2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/chiragyadav916/chiragyadav916/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2024 01:37:34 UTC
+ Last Updated on 26/07/2024 18:38:07 UTC
 <!--END_SECTION:waka-->
 
   
