@@ -80,7 +80,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-230%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-230%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -121,16 +121,16 @@ Sunday                   123 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    13 mins             █████████████████████████   100.00 % 
+Other                    21 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   13 mins             █████████████████████████   100.00 % 
+Chrome                   21 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-WebStorm                 13 mins             █████████████████████████   100.00 % 
+WebStorm                 21 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  13 mins             █████████████████████████   100.00 % 
+Windows                  21 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -150,7 +150,7 @@ Python                   2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/chiragyadav916/chiragyadav916/main/assets/bar_graph.png)
 
 
- Last Updated on 04/11/2024 18:43:11 UTC
+ Last Updated on 05/11/2024 18:43:20 UTC
 <!--END_SECTION:waka-->
 
   
