@@ -80,11 +80,15 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-275%20hrs%2049%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 449.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 77 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -92,6 +96,45 @@
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                230 commits         ███████░░░░░░░░░░░░░░░░░░   26.50 % 
+🌆 Daytime                259 commits         ███████░░░░░░░░░░░░░░░░░░   29.84 % 
+🌃 Evening                253 commits         ███████░░░░░░░░░░░░░░░░░░   29.15 % 
+🌙 Night                  126 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+Tuesday                  85 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+Wednesday                103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+Thursday                 105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+Friday                   119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+Saturday                 187 commits         █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
+Sunday                   149 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Other                    1 hr 31 mins        █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Chrome                   1 hr 31 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Vichar_Manch             1 hr 31 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  1 hr 31 mins        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -109,7 +152,7 @@ Python                   2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/chiragyadav916/chiragyadav916/main/assets/bar_graph.png)
 
 
- Last Updated on 15/02/2025 18:40:13 UTC
+ Last Updated on 16/02/2025 18:40:37 UTC
 <!--END_SECTION:waka-->
 
   
