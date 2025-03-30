@@ -88,6 +88,8 @@
 
 > 📦 449.7 kB Used in GitHub's Storage 
  > 
+> 🏆 135 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 13 Public Repositories 
@@ -121,16 +123,16 @@ Sunday                   159 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    13 mins             █████████████████████████   100.00 % 
+Other                    4 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   13 mins             █████████████████████████   100.00 % 
+Chrome                   4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Vichar_Manch             13 mins             █████████████████████████   100.00 % 
+Vichar_Manch             4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  13 mins             █████████████████████████   100.00 % 
+Windows                  4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -150,7 +152,7 @@ Python                   2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/chiragyadav916/chiragyadav916/main/assets/bar_graph.png)
 
 
- Last Updated on 29/03/2025 18:41:33 UTC
+ Last Updated on 30/03/2025 18:41:27 UTC
 <!--END_SECTION:waka-->
 
   
