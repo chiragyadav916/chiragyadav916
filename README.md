@@ -80,13 +80,15 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-301%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-301%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 449.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 170 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -121,16 +123,16 @@ Sunday                   162 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    28 mins             █████████████████████████   100.00 % 
+Other                    33 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   28 mins             █████████████████████████   100.00 % 
+Chrome                   33 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Vichar_Manch             28 mins             █████████████████████████   100.00 % 
+Vichar_Manch             33 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  28 mins             █████████████████████████   100.00 % 
+Windows                  33 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -150,7 +152,7 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/chiragyadav916/chiragyadav916/main/assets/bar_graph.png)
 
 
- Last Updated on 09/05/2025 18:45:25 UTC
+ Last Updated on 10/05/2025 18:41:55 UTC
 <!--END_SECTION:waka-->
 
   
