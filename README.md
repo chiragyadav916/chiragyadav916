@@ -80,8 +80,6 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-305%20hrs%2014%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
@@ -96,45 +94,6 @@
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                245 commits         ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
-🌆 Daytime                271 commits         ███████░░░░░░░░░░░░░░░░░░   28.20 % 
-🌃 Evening                319 commits         ████████░░░░░░░░░░░░░░░░░   33.19 % 
-🌙 Night                  126 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   136 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Tuesday                  101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-Wednesday                120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-Thursday                 119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-Friday                   129 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-Saturday                 194 commits         █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
-Sunday                   162 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -152,7 +111,7 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/chiragyadav916/chiragyadav916/main/assets/bar_graph.png)
 
 
- Last Updated on 30/06/2025 18:48:30 UTC
+ Last Updated on 01/07/2025 18:47:51 UTC
 <!--END_SECTION:waka-->
 
   
