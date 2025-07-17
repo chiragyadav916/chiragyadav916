@@ -88,8 +88,6 @@
 
 > 📦 449.7 kB Used in GitHub's Storage 
  > 
-> 🏆 170 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 13 Public Repositories 
@@ -152,7 +150,7 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/chiragyadav916/chiragyadav916/main/assets/bar_graph.png)
 
 
- Last Updated on 16/07/2025 18:51:36 UTC
+ Last Updated on 17/07/2025 18:52:05 UTC
 <!--END_SECTION:waka-->
 
   
