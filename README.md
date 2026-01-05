@@ -80,9 +80,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-334%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-334%20hrs%2049%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -123,17 +123,17 @@ Sunday                   164 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    3 hrs 44 mins       █████████████████████████   100.00 % 
+Other                    4 hrs 16 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   3 hrs 44 mins       █████████████████████████   100.00 % 
+Chrome                   4 hrs 16 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ues-bmim-wed             3 hrs 38 mins       ████████████████████████░   97.13 % 
-jtk-uwim-kns             6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+ues-bmim-wed             4 hrs 9 mins        ████████████████████████░   97.48 % 
+jtk-uwim-kns             6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 
 💻 Operating System: 
-Windows                  3 hrs 44 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -153,7 +153,7 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/chiragyadav916/chiragyadav916/main/assets/bar_graph.png)
 
 
- Last Updated on 04/01/2026 18:49:03 UTC
+ Last Updated on 05/01/2026 18:53:57 UTC
 <!--END_SECTION:waka-->
 
   
