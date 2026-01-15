@@ -80,7 +80,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-347%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-347%20hrs%2028%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -123,17 +123,17 @@ Sunday                   164 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    10 hrs 16 mins      █████████████████████████   100.00 % 
+Other                    8 hrs 55 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   10 hrs 16 mins      █████████████████████████   100.00 % 
+Chrome                   8 hrs 55 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ues-bmim-wed             7 hrs 58 mins       ███████████████████░░░░░░   77.63 % 
-tev-zzce-izg             2 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
+ues-bmim-wed             6 hrs 37 mins       ███████████████████░░░░░░   74.25 % 
+tev-zzce-izg             2 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
 
 💻 Operating System: 
-Windows                  10 hrs 16 mins      █████████████████████████   100.00 % 
+Windows                  8 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -153,7 +153,7 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/chiragyadav916/chiragyadav916/main/assets/bar_graph.png)
 
 
- Last Updated on 14/01/2026 18:55:15 UTC
+ Last Updated on 15/01/2026 18:59:55 UTC
 <!--END_SECTION:waka-->
 
   
