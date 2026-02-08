@@ -123,16 +123,16 @@ Sunday                   164 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Chrome                   1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ues-bmim-wed             1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -152,7 +152,7 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/chiragyadav916/chiragyadav916/main/assets/bar_graph.png)
 
 
- Last Updated on 07/02/2026 18:58:16 UTC
+ Last Updated on 08/02/2026 19:00:02 UTC
 <!--END_SECTION:waka-->
 
   
